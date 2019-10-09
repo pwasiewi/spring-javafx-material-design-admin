@@ -277,7 +277,7 @@
 
 .tab-pane 
 {
--fx-skin: "com.sun.javafx.scene.control.skin.TabPaneSkin";
+-fx-skin: "javafx.scene.control.skin.TabPaneSkin";
 /* -fx-tab-min-width: 4.583em;  55 */
 /* -fx-tab-max-width: 4.583em; 55 */
 -fx-tab-min-height: 2em; /* 24 */
